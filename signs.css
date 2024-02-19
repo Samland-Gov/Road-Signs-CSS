@@ -1,14 +1,14 @@
 @font-face{
 	font-family:'Transport';
-	src:url('https://files.minersonline.uk/minecraft/signs/o/signs/transport.ttf') format('opentype');
+	src:url('./transport.ttf') format('opentype');
 }
 @font-face{
 	font-family:'Transport 2';
-	src:url('https://files.minersonline.uk/minecraft/signs/o/signs/transport-2.ttf') format('opentype');
+	src:url('./transport-2.ttf') format('opentype');
 }
 @font-face{
 	font-family:'Highway Gothic';
-	src:url('https://files.minersonline.uk/minecraft/signs/o/signs/highway_gothic/HWYGEXPD.TTF') format('opentype');
+	src:url('./highway_gothic/HWYGEXPD.TTF') format('opentype');
 }
 
 .sign {
