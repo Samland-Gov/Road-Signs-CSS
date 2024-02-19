@@ -8,5 +8,5 @@ See [./index.html](./index.html) for how to use this.
 
 ## Credits
 
-* <https://github.com/edmundgentle/signs> which is a CSS library for UK road signs.
+* <https://github.com/edmundgentle/signs> which is a CSS library for UK road signs (and its where this repository was forked from).
 * <https://www.dafont.com/highway-gothic.font> for providing the Highway Gothic font.
